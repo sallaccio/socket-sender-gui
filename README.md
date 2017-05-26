@@ -19,7 +19,13 @@ by just setting the text-editor to the desired language.
 
 ### Use of third party code
 
-_JsonMinify_: by Stefan Reich at http://tinybrain.de:8080/jsonminify/
+*JsonMinify*: by Stefan Reich at http://tinybrain.de:8080/jsonminify/
+
+### Libraries and modules
+
+*RSyntaxTextArea*: by Bobbylight at http://bobbylight.github.io/RSyntaxTextArea/
+*Grizzly*: by Oracle at https://javaee.github.io/grizzly/
+*Gson*: by Google at https://github.com/google/gson
 
 ### Known issues
 
@@ -32,3 +38,7 @@ A fix can be of two sorts:
 - add a read-only editor on interaction with an action in the list
 
 We prefer tha latter solution but have to think about the user flow before implementing it.
+
+### Future developments
+
+1) Externalize new message snippet
