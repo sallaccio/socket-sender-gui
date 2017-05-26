@@ -1,0 +1,11 @@
+{
+	"Customer" : "Example",
+	"Customers" : {
+		"Example" : {
+			"HtmlWebPath" : "a\\relative\\or\\absolute\\path\\to\\some\\html\\root\\folder",
+			"MessagesPath" : "example\\actions\\messages",
+			"SequencesPath" : "example\\actions\\sequences",
+			"CurrentActionPath" : "example\\actions\\current"
+		}
+	}
+}
