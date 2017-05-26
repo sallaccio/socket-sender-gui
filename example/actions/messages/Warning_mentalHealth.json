@@ -1,0 +1,26 @@
+{
+	"InputElements": [{
+		"Text": "Understood!",
+		"Id": "ok",
+		"Type": "button"
+	},
+	{
+		"Text": "Who are you to judge?",
+		"Id": "cancel",
+		"Type": "button"
+	}],
+	"OutputElements": [{
+		"Text": "Mental health",
+		"Id": "warning_title",
+		"Type": "label"
+	},
+	{
+		"Text": "You live in an imaginary country. Contact a doctor for further check-up.",
+		"Id": "warning_text",
+		"Type": "label"
+	}],
+	"Id": "warning_mentalHealth",
+	"Language": "ita",
+	"Type": "popup",
+	"Number":  418
+}

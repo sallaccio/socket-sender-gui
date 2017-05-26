@@ -1,0 +1,15 @@
+{
+	"Sequence": [
+	{
+		"Type": "message",
+		"Value": "Account_name"
+	},
+	{
+		"Type": "wait",
+		"Value": "2000"
+	},
+	{
+		"Type": "message",
+		"Value": "Account_adress"
+	}]
+}

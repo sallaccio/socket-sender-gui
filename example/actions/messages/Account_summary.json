@@ -1,0 +1,26 @@
+{
+	"InputElements": [{
+		"Text": "Close",
+		"Id": "close",
+		"Type": "button"
+	}],
+	"OutputElements": [{
+		"Text": "Summary",
+		"Id": "title",
+		"Type": "label"
+	},
+	{
+		"Text": "John Smith",
+		"Id": "name",
+		"Type": "label"
+	},
+	{
+		"Text": "1234 Main Road, Springfield, 00123, Cartoonland",
+		"Id": "adress",
+		"Type": "label"
+	}],
+	"Id": "account_summary",
+	"Language": "ita",
+	"Type": "display",
+	"Number":  3
+}

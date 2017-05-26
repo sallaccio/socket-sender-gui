@@ -1,0 +1,22 @@
+{
+	"InputElements": [{
+		"Text": "Enter first name",
+		"Id": "first_name",
+		"Type": "textarea"
+	},
+	{
+		"Text": "Enter last name",
+		"Id": "last_name",
+		"Type": "textarea"
+	},
+	{
+		"Text": "Save",
+		"Id": "save",
+		"Type": "button"
+	}],
+	"OutputElements": [],
+	"Id": "account_name",
+	"Language": "ita",
+	"Type": "form",
+	"Number":  1
+}

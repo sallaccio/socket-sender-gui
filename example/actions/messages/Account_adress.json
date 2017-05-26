@@ -1,0 +1,32 @@
+{
+	"InputElements": [{
+		"Text": "Adress",
+		"Id": "adress",
+		"Type": "textarea"
+	},
+	{
+		"Text": "Zip code",
+		"Id": "zipCode",
+		"Type": "textarea"
+	},
+	{
+		"Text": "City",
+		"Id": "city",
+		"Type": "textarea"
+	},
+	{
+		"Text": "Country",
+		"Id": "country",
+		"Type": "textarea"
+	},
+	{
+		"Text": "Save",
+		"Id": "save",
+		"Type": "button"
+	}],
+	"OutputElements": [],
+	"Id": "account_adress",
+	"Language": "ita",
+	"Type": "form",
+	"Number":  2
+}
