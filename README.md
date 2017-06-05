@@ -24,7 +24,9 @@ by just setting the text-editor to the desired language.
 ### Libraries and modules
 
 *RSyntaxTextArea*: by Bobbylight at http://bobbylight.github.io/RSyntaxTextArea/
+
 *Grizzly*: by Oracle at https://javaee.github.io/grizzly/
+
 *Gson*: by Google at https://github.com/google/gson
 
 ### Known issues
