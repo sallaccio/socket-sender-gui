@@ -4,3 +4,12 @@
 bin
 libs
 log.txt
+
+example/actions/*
+
+*.aux
+*.idx
+*.log
+*.out
+*.gz
+*.toc
