@@ -1,0 +1,15 @@
+{
+	"name": "WebStorius",
+	"version": "0.1.1",
+	"main": "index.html",
+	"window": {
+		"show": true,
+	    "frame" : true,
+	    "toolbar": false,
+	 	"resizable": true,
+	    "width": 1024,
+	    "height": 768,
+	    "top" : 0,
+	    "left" : 0
+	  }
+}
