@@ -1,8 +1,8 @@
 # socket-sender-gui
 Simulate sending messages or sequences of messages from a websocket server, with a GUI to manage them.
 
-If you're working on an application that communicates with a browser through websockets 
-(can be adapted to HTTP requests as well) 
+If you're working on an application that communicates with a browser through websockets
+(can be adapted to HTTP requests as well)
 and wish to work on given actions without having to start long sequences of actions again and again,
 you might want to simulate the sending of a given message.
 Or of a given sequence of messages.
@@ -13,8 +13,15 @@ It was originally created to deal with Json messages, but can be easily adapted 
 by just setting the text-editor to the desired language.  
 
 
+### Quick overview
 
+<p align="center">
+  <img alt="Quick OVerview" src="documentation/screenshots/MessagePicker[transparent].png">
+</p>
 
+### Detailed manual
+
+If the interface does not seem intuitive enough, click [here](documentation/latex/SocketSenderGui.pdf) to get a full manual (pdf).
 
 
 ### Use of third party code
@@ -32,7 +39,7 @@ by just setting the text-editor to the desired language.
 ### Known issues
 
 When editing an action, there is no way to see an already existing action without loosing the current edits.
-A current roundabout this issue is to "Select All / Copy" in the editor, 
+A current roundabout this issue is to "Select All / Copy" in the editor,
 go see the other action and re-create or modify.
 
 A fix can be of two sorts:
