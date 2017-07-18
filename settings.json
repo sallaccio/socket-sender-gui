@@ -1,8 +1,14 @@
 {
-	"Customer" : "Example",
+	"Customer" : "Example_WebStorius",
 	"Customers" : {
-		"Example" : {
+		"SomeProject" : {
 			"HtmlWebPath" : "a\\relative\\or\\absolute\\path\\to\\some\\html\\root\\folder",
+			"MessagesPath" : "example\\actions\\messages",
+			"SequencesPath" : "example\\actions\\sequences",
+			"CurrentActionPath" : "example\\actions\\current"
+		},
+		"Example_WebStorius" : {
+			"HtmlWebPath" : "example\\web",
 			"MessagesPath" : "example\\actions\\messages",
 			"SequencesPath" : "example\\actions\\sequences",
 			"CurrentActionPath" : "example\\actions\\current"
