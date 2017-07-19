@@ -9,26 +9,39 @@ Or of a given sequence of messages.
 
 This tool is basically a GUI around a minimal websocket server that automatically send whatever message you selected on a connection event.
 
-It was originally created to deal with Json messages, but can be easily adapted to treat messages in any language (or none in particular)
-by just setting the text-editor to the desired language.  
+It was originally created to deal with Json messages, but can be easily adapted to treat messages in any language (or none in particular). 
+
+[Quick Overview](#sec_quickOverview)
+
+[Detailed Manual](#sec_detailedManual)
+
+[External code](#sec_externalCode)
+
+[Known issues](#sec_knownIssues)
+
+[Future development](#sec_future)
 
 
 ### Quick overview
+<a name="sec_quickOverview"/>
 
 <p align="center">
   <img alt="Quick OVerview" src="documentation/screenshots/MessagePicker[transparent].png">
 </p>
 
 ### Detailed manual
+<a name="sec_detailedManual"/>
 
 If the interface does not seem intuitive enough, click [here](documentation/latex/SocketSenderGui.pdf) to get a full manual (pdf).
 
+### External code
+<a name="sec_externalCode"/>
 
-### Use of third party code
+#### Partial use of third party code
 
 *JsonMinify*: by Stefan Reich at http://tinybrain.de:8080/jsonminify/
 
-### Libraries and modules
+#### Libraries and modules
 
 *RSyntaxTextArea*: by Bobbylight at http://bobbylight.github.io/RSyntaxTextArea/
 
@@ -36,7 +49,12 @@ If the interface does not seem intuitive enough, click [here](documentation/late
 
 *Gson*: by Google at https://github.com/google/gson
 
+### Change the language of messages
+<a name="sec_languageOfMessages"/>
+
+
 ### Known issues
+<a name="sec_knownIssues"/>
 
 When editing an action, there is no way to see an already existing action without loosing the current edits.
 A current roundabout this issue is to "Select All / Copy" in the editor,
@@ -49,5 +67,6 @@ A fix can be of two sorts:
 We prefer tha latter solution but have to think about the user flow before implementing it.
 
 ### Future developments
+<a name="sec_future"/>
 
 1) Externalize new message snippet
