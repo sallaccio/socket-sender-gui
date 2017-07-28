@@ -11,15 +11,11 @@ This tool is basically a GUI around a minimal websocket server that automaticall
 
 It was originally created to deal with Json messages, but can be easily adapted to treat messages in any language (or none in particular). 
 
-[Quick Overview](#sec_quickOverview)
-
-[Detailed Manual](#sec_detailedManual)
-
-[External code](#sec_externalCode)
-
-[Known issues](#sec_knownIssues)
-
-[Future development](#sec_future)
+ [Quick Overview](#sec_quickOverview)  
+ [Detailed Manual](#sec_detailedManual)  
+ [External code](#sec_externalCode)  
+ [Known issues](#sec_knownIssues)  
+ [Future development](#sec_future)  
 
 
 ### Quick overview
